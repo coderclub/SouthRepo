@@ -30,6 +30,7 @@ public class fILErD {
 			System.out.println("File is not readble");
 		}
 //Nasir bhai er balls nai.
+		//baki dui public koi?
 	}
 
 }
