@@ -29,7 +29,7 @@ public class fILErD {
 		} catch (Exception ex) {
 			System.out.println("File is not readble");
 		}
-
+//Nasir bhai er balls nai.
 	}
 
 }
