@@ -2,7 +2,6 @@ package packpak;
 
 import java.io.FileReader;
 import java.util.Scanner;
-import java.*;
 import java.io.BufferedReader;
 
 public class fILErD {
@@ -16,7 +15,7 @@ public class fILErD {
 		try {
 			fr = new FileReader(path);
 		} catch (Exception ex) {
-			System.out.println("FILE NOT LOCATED");
+			System.out.println("FILE NOT LOCATED");//my comment
 		}
 
 		try {
