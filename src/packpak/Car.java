@@ -16,7 +16,7 @@ public Car () {
 //Constructor 2
 public Car (int CarID, String CarModel, String CarMake, int ColorCode, char CarClass) { //local variable
 	this.CarID = CarID; this.CarModel=CarModel; this.CarMake=CarMake; this.CarClass=CarClass;
-	System.out.println(CarID+"  "+CarModel+"  "+CarMake+"  "+ColorCode+"  "+CarClass);
+	System.out.println(CarID+"  "+CarModel+"  "+CarMake+"  "+ColorCode+"  "+CarClass+" eto keso keno");
 }
 //Constructor 3
 public Car (String CarModel, String CarMake, int ColorCode) {
@@ -44,5 +44,8 @@ public void CarMileage() {
 public void CarMake(String CarMake) {
 	TestCar.tyre=2;
 	System.out.println("We are the largest car provider in the world: "+CarMake);	
+}
+public void CarUser (){
+	System.out.println("rongila hoile ladies");
 }
 }
