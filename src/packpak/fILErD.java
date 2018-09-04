@@ -29,9 +29,8 @@ public class fILErD {
 		} catch (Exception ex) {
 			System.out.println("File is not readble");
 		}
-//Montaz bhai added in this group, montaz bhai please reply me a mail or add my number in whats app
-		//i am sending how to commit
+//Nasir bhai er balls nai.
 		//baki dui public koi?
-	}
+	}//git
 
 }
