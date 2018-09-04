@@ -25,6 +25,7 @@ public class TestHouse {
 
         }
     }
-
+// Nasir bhai printing sequence ta dhorte partesina. Can you write for me?
+//why default constructor is coming twice
 //git config --global user.name "username"
 //git config --global user.email "email"
