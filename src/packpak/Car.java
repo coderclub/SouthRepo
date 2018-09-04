@@ -4,7 +4,7 @@ public class Car {
 //Variables	
 public int CarID; //instance variable
 public String CarModel;
-String CarMake;
+String CarMake; //no public keyword means, it is public by default
 public int ColorCode;
 String CarMod;
 static char CarClass = 'Z'; //static ba class variable
