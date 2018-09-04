@@ -1,7 +1,6 @@
-package packpak;
+package dhonShompod;
 
 import java.io.FileReader;
-import java.util.Scanner;
 import java.io.BufferedReader;
 
 public class fILErD {
