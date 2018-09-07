@@ -45,7 +45,7 @@ public class House { //this is the class
         public void BestBuilder(String Builder) {
             System.out.println("The well known builder in the world is : "+Builder);
         }
-        //Method 3 (like method 1)
+        //Method 5 (like method 3)
         public void Model (){
             System.out.println("They are like Banglu and look very beautiful");
         }

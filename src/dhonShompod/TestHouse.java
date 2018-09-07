@@ -7,7 +7,7 @@ public class TestHouse {
             House house3 = new House();
 
             House house1 = new House(1300, "shopnomollika", "JAMUNA", 347, "Banglo",'N');
-            house1.GenerateSomeNo(1300, 347);
+            System.out.println(house1.GenerateSomeNo(1300, 347));
 
 
             House house2 = new House (1200, "hasnahena", "boshundhora");
@@ -18,7 +18,7 @@ public class TestHouse {
 
 
             House house4 = new House();
-            house4.displayNameOfHouse("rojonighondha");
+            house4.displayNameOfHouse("rojonighondha");//hkguyg
 
             House house5 = new House("Apartment", "Helena", "Durst");
             house5.HouseRent();

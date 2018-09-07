@@ -25,9 +25,10 @@ static int tyre;
 		FarzadCar.displayCarModel("BMW");								//Method 1
 		
 		Car ShamsCar = new Car(404, "Prius", "Toyota", 56, 'B' );		//Constructor 2
-		//System.out.println(ShamsCar.GenerateSerialNo(404, 56));			//Method 2
+		System.out.println(ShamsCar.GenerateSerialNo(404, 56));			//Method 2
 		//ShamsCar.CarMileage();											//Method 3
 		ShamsCar.CarMake("Toyota");//Method 4
 		ShamsCar.displayCarModel("Toyota");
 	}
 }
+//fgsfdfsgfdgasfgdd
